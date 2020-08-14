@@ -1,6 +1,6 @@
-# E & D I
+# E & D II
 
-❏❐ E&D II ❏❐(https://eeriley99.github.io/EDII/)
+❏❐ E&D II ❏❐ (https://eeriley99.github.io/EDII/)
 <table class="tg">
 <thead>
   <tr>
