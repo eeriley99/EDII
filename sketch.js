@@ -24,6 +24,7 @@ function preload() {
 function setup() {
     createCanvas(displayWidth, displayHeight);
     frameRate(0.5);
+
 }
 
 function draw() {
